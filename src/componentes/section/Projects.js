@@ -24,7 +24,7 @@ function Projects(){
             description='Desenvolvimento de uma Landing Page para o lançamento da formação em tecnología'
             repo='https://github.com/Cusecheg/LandingPage1'/>
             
-            <ButtonB text='Ver repositorio completo' href='https://github.com/Cusecheg'/>
+            <ButtonB text='Ver repositorio completo' link='https://github.com/Cusecheg'/>
             
         </div>
     )
